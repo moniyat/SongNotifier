@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HttpJsonParser</string>
+    <string name="new_songs">New Songs</string>
+    <string name="new_songs_channel_description">This is the channel that notifies when you have a new song</string>
+</resources>

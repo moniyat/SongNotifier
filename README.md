@@ -2,7 +2,7 @@
 Thie app notifies you when your favorite artists realeses a song
 
 ## Screenshot
-<img src="./screenshot1.PNG" alt="Screenshot of the app" height="500" />
+<img src="https://lh3.googleusercontent.com/kZSrT8bCQAPfqJKjIdDueu5TNY2wsXsJlMfuOzx7d4Y0MbHIa2h3dXpFHA2OReJhzFjs1wxdml0dYQXycvQCK9WbOxgdnVOACoGjbaMUtb6uFoTttq_gibq3XBsJjUoIUCdjZSgA9x913krHfVnvXCetIleojkS7JLDHgbgjAzFtZHFkn09Bl_I-s3H6Ni8-yJkqUbTqCQgdktFk9nWXhj8Ab8PexUbSgkeTiiQccDr2R9qt7ZGGUdxh6ICB10BuZlbLbykWEYxr0j-rSnr7kZnrdgYEPY87Z-vvPiPW895YgMv6GL7YhquzVy4r6rY0-DT0gIzyKv4JuznEU3AbdW2r0qrXerfvM50yhwsPZN_7kQu5qoXpJjaU2d4ahlSCklDCC3gi-z2HZgGTfe9wHtwvl8i96mgnb4ERqo_YaeXb3qdu1t-vcdvm_sXhUuqvsVQ0iyQgFuhrTPA5XiOIVvWQE2cbuvb1LwcRyZmpj3DFz-wnW9UaMhf6effAGuCSwhbw9i_4hs3C4iYj3YN6oJmd1mivCd6n1qmPInDVrAQKO-EDvN7JWlxd8OVXysAA2mSe2lBxlXfklw4yAbi04ndpZ-92XgZYhgN8ihUgtOEQA4JJO8VoBho2-EohTGxiZjQv_eyNFCEaj8kqrP2XJrs7xCEGA4ilRT-l-7yASUsC2R32mwh9VvY2rYiQvMpf1yxkHmYdqHQ6lVDBYT8_pOQ=w532-h904-no?authuser=0" alt="Screenshot of the app" height="500" />
 nothing shows but it runs ¯\_(ツ)_/¯
 
 ## Installation & Usage

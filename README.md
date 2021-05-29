@@ -2,7 +2,7 @@
 Thie app notifies you when your favorite artists realeses a song
 
 ## Screenshot
-<img src="./screenshot1.jpg" alt="Screenshot of the app" height="500" />
+<img src="./screenshot1.PNG" alt="Screenshot of the app" height="500" />
 nothing shows but it runs ¯\_(ツ)_/¯
 
 ## Installation & Usage
